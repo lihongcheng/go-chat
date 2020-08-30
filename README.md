@@ -10,20 +10,17 @@ golang实现的简易版聊天室
 
 服务端：
 lhcwifi:msgserver lihongcheng$ ./msgserver
-
 收到消息，游客92f5说：我是游客小明
 收到消息，游客5c3b说：我是游客小红
 
 客户端1：
 lhcwifi:client lihongcheng$ ./client
-
 欢迎来到聊天室！下面可以畅所欲言了！
 我是游客小明
 游客5c3b说:我是游客小红
 
 客户端2：
 lhcwifi:client lihongcheng$ ./client
-
 欢迎来到聊天室！下面可以畅所欲言了！
 游客92f5说:我是游客小明
 我是游客小红
